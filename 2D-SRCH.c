@@ -24,11 +24,10 @@ int main()
     }
     if(f==1)
     {
-        printf
+        printf("YOUR ELEMENT IS PRESENT");
     }
-
-
-
+    else
+    printf("YOUR ELEMENT IS NOT PRESENT");
 
 return 0;
 
